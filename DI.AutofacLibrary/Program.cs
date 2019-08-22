@@ -2,11 +2,6 @@
 
 namespace DI.AutofacLibrary
 {
-  public interface ILog
-  {
-    void Write(string message);
-  }
-
   public class ConsoleLog : ILog
   {
     public void Write(string message)
