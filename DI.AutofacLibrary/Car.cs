@@ -1,5 +1,8 @@
 namespace DI.AutofacLibrary
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Car
     {
         private Engine engine;
