@@ -1,5 +1,8 @@
 ﻿namespace DI.AutofacLibrary
 {
+  /// <summary>
+  /// 
+  /// </summary>
   internal class Program
   {
     public static void Main(string[] args)
