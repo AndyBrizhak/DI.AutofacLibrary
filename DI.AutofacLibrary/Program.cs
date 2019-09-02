@@ -1,7 +1,7 @@
 ﻿namespace DI.AutofacLibrary
 {
   /// <summary>
-  /// ++
+  /// +++
   /// </summary>
   internal class Program
   {
