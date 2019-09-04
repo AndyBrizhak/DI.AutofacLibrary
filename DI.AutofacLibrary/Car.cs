@@ -8,6 +8,11 @@ namespace DI.AutofacLibrary
         private Engine engine;
         private ILog log;
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="engine"></param>
+        /// <param name="log"></param>
         public Car(Engine engine, ILog log)
         {
             this.engine = engine;
