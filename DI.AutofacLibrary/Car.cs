@@ -18,7 +18,9 @@ namespace DI.AutofacLibrary
             this.engine = engine;
             this.log = log;
         }
-
+/// <summary>
+/// ++
+/// </summary>
         public void Go()
         {
             engine.Ahead(100);
