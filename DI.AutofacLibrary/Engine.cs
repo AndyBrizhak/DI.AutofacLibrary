@@ -18,7 +18,10 @@ namespace DI.AutofacLibrary
             this.log = log;
             id = new Random().Next();
         }
-
+/// <summary>
+/// 
+/// </summary>
+/// <param name="power"></param>
         public void Ahead(int power)
         {
             log.Write($"Engine [{id}] ahead {power}");
