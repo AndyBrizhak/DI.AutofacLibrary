@@ -3,7 +3,7 @@ using System;
 namespace DI.AutofacLibrary
 {
     /// <summary>
-    /// ++
+    /// +++
     /// </summary>
     public class ConsoleLog : ILog
     {
