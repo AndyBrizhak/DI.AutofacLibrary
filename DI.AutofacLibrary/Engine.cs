@@ -10,7 +10,7 @@ namespace DI.AutofacLibrary
         private ILog log;
         private int id;
 /// <summary>
-/// 
+/// +
 /// </summary>
 /// <param name="log"></param>
         public Engine(ILog log)
