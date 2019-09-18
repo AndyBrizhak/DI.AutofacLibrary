@@ -19,7 +19,7 @@ namespace DI.AutofacLibrary
             id = new Random().Next();
         }
 /// <summary>
-/// +++
+/// 
 /// </summary>
 /// <param name="power"></param>
         public void Ahead(int power)
