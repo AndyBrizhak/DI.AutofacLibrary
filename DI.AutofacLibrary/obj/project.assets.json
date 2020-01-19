@@ -687,7 +687,6 @@
   },
   "packageFolders": {
     "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\Xamarin\\NuGet": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -700,13 +699,11 @@
       "outputPath": "F:\\Educational materials\\IT\\C#+Dot Net\\Udemy\\Udemy - Depedency Injection in C# and .Net with Autofac Library\\DI.AutofacLibrary\\DI.AutofacLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\ProgramData\\Xamarin\\NuGet",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

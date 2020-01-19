@@ -7,7 +7,6 @@
     "outputPath": "F:\\Educational materials\\IT\\C#+Dot Net\\Udemy\\Udemy - Depedency Injection in C# and .Net with Autofac Library\\DI.AutofacLibrary\\DI.AutofacLibrary\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\ProgramData\\Xamarin\\NuGet",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
